@@ -1,0 +1,3 @@
+[submodule "Echo/sentinel-nft/lib/openzeppelin-contracts"]
+	path = Echo/sentinel-nft/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
